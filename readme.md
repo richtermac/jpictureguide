@@ -24,6 +24,9 @@ weight = 20
 
 1. Add an id to any section you want to link to:
 
+Example: 
+id: "new-section"
+
 ```yaml
 ####################### Banner #########################
 style: "style5 invert orient-left content-align-center image-position-center"
